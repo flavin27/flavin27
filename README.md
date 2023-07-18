@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**flavin27/flavin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public information
 
-Here are some ideas to get you started:
+Fala ai meu nome é Flavio. Faço facuculdade de ciencia da computação. Curto escrever uns codigos e jogar uns joguinhos. 
+<br>
+Tamo ai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tecnologias
+
+* PHP
+* Laravel
+* Typescript
+* NodeJS
+* SQL
+* Docker
+* React
