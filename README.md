@@ -1,9 +1,9 @@
 
 ## Public information
 
-Faço facuculdade de ciencia da computação. 
+Faço facuculdade. 
 <br>
-Curto escrever uns codigos e jogar uns joguinhos. 
+Escrevo um códigos. 
 <br>
 Tamo ai.
 
