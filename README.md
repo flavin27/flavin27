@@ -3,16 +3,12 @@
 
 Faço facuculdade. 
 <br>
-Escrevo um códigos. 
-<br>
-Tamo ai.
+Escrevo uns códigos. 
+
 
 ## tecnologias
 
 * PHP
 * Laravel
-* Typescript
-* NodeJS
 * SQL
 * Docker
-* React
