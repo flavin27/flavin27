@@ -11,4 +11,5 @@ Escrevo uns códigos.
 * PHP
 * Laravel
 * SQL
+* Azure
 * Docker
